@@ -3,5 +3,7 @@
 
 int main()
  {
+ 	int nombre1, nombre2, operateur;
+
  	exit(0);
  } 
